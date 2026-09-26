@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 .venv
+temp_auto_push.bat
 .DS_Store
-.vscode/
 *.db
 CLAUDE.md
 .pytest_cache/
 cookies.txt
+.gitignore
+branch_structure.json
