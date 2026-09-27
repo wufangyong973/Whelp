@@ -3,8 +3,11 @@ __pycache__/
 *.py[cod]
 .venv
 .DS_Store
-.vscode/
 *.db
 CLAUDE.md
 .pytest_cache/
 cookies.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
